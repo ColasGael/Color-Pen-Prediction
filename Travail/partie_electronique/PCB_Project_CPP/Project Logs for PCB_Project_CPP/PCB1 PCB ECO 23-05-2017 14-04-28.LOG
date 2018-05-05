@@ -1,6 +1,0 @@
-Added Component: Designator=P1(HDR1X3)
-Added Component: Designator=P2(HDR1X3)
-Added Component: Designator=RAD1(radon)
-Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 3
-Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 3
-Added Member To Class: ClassName=Sheet1 Member=Component RAD1 Radon
