@@ -1,12 +1,12 @@
 # Color-Pen-Prediction
-by Gael Colas and Sylvestre Prabakaran
+by Gael Colas and Sylvestre Prabakaran, 2nd year students from the French engineering school Centrale-Supélec
 
- Realisation of an electronic system to reproduce the Color Pen Prediction effect : https://www.youtube.com/watch?v=i2_MQekyIXk
+ Goal : Realisation of an electronic system to reproduce the Color Pen Prediction effect : https://www.youtube.com/watch?v=i2_MQekyIXk
  
  This is a project we led in our 2nd year in Centrale-Supélec (2017). 
  Our supervisors were Hanane Meliani and Laurent Cabaret from the LISA Lab.
  
- This project invloved :
+ This project involved :
   - Arduino : we used an Arduino board to control a force sensor and make weight measurements ;
   - Android : we coded an Android app that receives the measurements via Bluetooth, and provides a user-friendly display to process them ;
   - PCB : we printed a circuit board to compactely gather our electronic components ;
