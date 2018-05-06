@@ -4,7 +4,7 @@ by Gael Colas and Sylvestre Prabakaran, 2nd year students from the French engine
  Goal : Realization of an electronic system to reproduce the Color Pen Prediction effect : https://www.youtube.com/watch?v=i2_MQekyIXk
  
  This is a "projet innovation" project we led in our 2nd year in CentraleSupélec (2017). 
- Our supervisors were Hanane Meliani and Laurent Cabaret from the LISA Lab.
+ Our supervisors were Hanane Meliani, Laurent Cabaret and Didier Coudray from the LISA Lab.
  
  This project involved :
   - Arduino : we used an Arduino board to control a force sensor and make weight measurements ;
