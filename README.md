@@ -1,5 +1,5 @@
 # Color-Pen-Prediction
-by Gael Colas and Sylvestre Prabakaran, 2nd year students from the French engineering school Centrale-Supélec
+by Gael Colas and Sylvestre Prabakaran, 2nd year students from the French engineering school CentraleSupélec.
 
  Goal : Realisation of an electronic system to reproduce the Color Pen Prediction effect : https://www.youtube.com/watch?v=i2_MQekyIXk
  
